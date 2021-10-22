@@ -1,6 +1,6 @@
 /*
 Bank Management System
-author : Ankit Kumar parua
+author : Ankit Kumar Parua
 last edit : 22/10/21
 */
 
